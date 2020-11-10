@@ -4,7 +4,8 @@ Datesets in Repository:
 - [Banking Attrition CSV](banking_attrition.csv)
 
 External Links: 
-- http://archive.ics.uci.edu/ml/index.php
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [Popular Baby Names - SSA](https://www.ssa.gov/oact/babynames/limits.html)
 
 APIs:
 - [Goodreads](https://www.goodreads.com/api)
